@@ -9,5 +9,7 @@ Um die Software zu betreiben, ist entweder ein Computer oder ein Smartphone nöt
 sowie ein beliebiger Python 3 - Compiler, der hier gefunden werden kann:
 
 Computer (alle Betriebssysteme): https://www.python.org/downloads/
+
 Smartphone (Android): https://play.google.com/store/apps/details?id=org.qpython.qpy3
+
 Smartphone (Apple):               
