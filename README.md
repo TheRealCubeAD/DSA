@@ -17,4 +17,4 @@ Smartphone (Android): https://play.google.com/store/apps/details?id=org.qpython.
 Update 1.1:
 + Die Software empfiehlt am Anfang des Spiel zusätzlich einen Spielmodus, den sie spielen möchte.
 + Verbesserte Auswahl der besten Karte aus den spielbaren Karten.
-- Einen Wenz kann die KI leider nicht spielen.
+- Einen Wenz kann die KI leider noch nicht spielen.
