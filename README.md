@@ -1,7 +1,7 @@
 In diesem Ordner lässt sich die Projektarbeit von Alexander Armbruster und Alexandru Duca
 während der DSA 2017 im Kurs 4.1 "unscharfe Mathematik" finden.
 
-Behandelt wurden spieltheoretische Probleme und Lösungsansätze mit so genannte "Fuzzy"-Methoden.
+Behandelt wurden spieltheoretische Probleme und Lösungsansätze mit so genannten "Fuzzy"-Methoden.
 Als praktisches Beispiel wurde das bayerische Kartenspiel "Schafkopf" gewählt.
 Dazu wurde eine Software entwickelt, die in der Lage zum Schafkopfen ist.
 
