@@ -13,3 +13,7 @@ Computer (alle Betriebssysteme): https://www.python.org/downloads/
 
 Smartphone (Android): https://play.google.com/store/apps/details?id=org.qpython.qpy3
 
+
+Update 1.1:
++ Die Software empfiehlt am Anfang des Spiel zusätzlich einen Spielmodus, den sie spielen möchte.
++ Verbesserte Auswahl der besten Karte aus den spielbaren Karten.
